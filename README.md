@@ -16,4 +16,4 @@ A Mobile responsive eCommerce web application for the [Razer](https://www.razer.
 
 ### [Live Demo](https://shippr.vercel.app/)
 
-_Disclaimer: All product media files on this project are strictly for educational purposes and are the sole property of the [Razer](https://www.razer.com/) brand._
+_Disclaimer: Most image files on this project are strictly for educational purposes and are the sole property of the [Razer](https://www.razer.com/) brand._
