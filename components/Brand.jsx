@@ -8,7 +8,7 @@ export default function Brand() {
   return (
     <div className="shippr__brand section__padding">
       <div className="heading">
-        <h1>World's Greatest Brand</h1>
+        <h1>World&apos;s Greatest Brand</h1>
       </div>
 
       <div className="brand__container">
