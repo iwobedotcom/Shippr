@@ -14,4 +14,4 @@ A Mobile responsive eCommerce web application for the [Razer](https://www.razer.
 4. **Stripe**
 5. GROQ (Graph-Relational Object Queries)
 
-### [Live Demo](#)
+### [Live Demo](https://shippr.vercel.app/)
