@@ -8,7 +8,6 @@ export { default as Promo } from "./Promo";
 export { default as Countdown } from "./Countdown";
 export { default as HeroBottom } from "./HeroBottom";
 export { default as ProductCard } from "./ProductCard";
-export { default as Search } from "./Search";
 export { default as Spinner } from "./Spinner";
 export { default as CategorySideBar } from "./CategorySideBar";
 export { default as CategoryFeeds } from "./CategoryFeeds";
