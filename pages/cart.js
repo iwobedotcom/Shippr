@@ -96,12 +96,14 @@ export default function Cart() {
             cartItems.map((item) => (
               <div className="product" key={item._id}>
                 <div className="product__image shadow">
-                  <Image
-                    src={urlFor(item.image[0]).url()}
-                    alt={item.name}
-                    width={100}
-                    height={100}
-                  />
+                  {item.image && (
+                    <Image
+                      src={urlFor(item.image[0] || item.image).url()}
+                      alt={item.name}
+                      width={100}
+                      height={100}
+                    />
+                  )}
                 </div>
                 <div className="product__details">
                   <div className="product__title">{item.name}</div>
